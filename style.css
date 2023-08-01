@@ -1,8 +1,8 @@
 /*
-Theme Name: Fascinate
-Author: team@fascinate.therrors.com
-Description: Wordpress Templates For Fascinate
-Tags: beauty
+Theme Name: Healthtech
+Author: withmasday@gmail.com
+Description: Wordpress Templates For Healthtech
+Tags: Health, Technology
 Version: 1.0
 Note : Update Mobile
 */
@@ -484,8 +484,9 @@ header .navbar-brand:visited {
 }
 
 header .navbar-brand {
-  font-family: "BetterSaturday";
-  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+  font-size: 25px !important;
+  color: var(--brand);
 }
 
 header ul .current_page_item a {
